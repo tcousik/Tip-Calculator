@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Tip Calculator</string>
+    <string name="hello_first_fragment">Hello from First Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="banner_text">TIP CALCULATOR</string>
+    <string name="enter_tip_amount_text">Choose Tip Percent:</string>
+    <string name="total_amount_hint">Enter total amount</string>
+    <string name="tax_amount_hint">Enter tax amount</string>
+    <string name="tip_0_percent">0%</string>
+    <string name="tip_5_percent">5%</string>
+    <string name="tip_10_percent">10%</string>
+    <string name="tip_20_percent">20%</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="clear_button">Clear</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="grand_total">Grand Total: %s</string>
+</resources>

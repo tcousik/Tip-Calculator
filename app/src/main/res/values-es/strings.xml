@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora de Propina</string>
+    <string name="hello_first_fragment">Hola desde el primer fragmento</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+
+    <string name="banner_text">CALCULADORA DE PROPINA</string>
+    <string name="enter_tip_amount_text">Elija el Porcentaje de Propina:</string>
+    <string name="total_amount_hint">Ingrese el monto total</string>
+    <string name="tax_amount_hint">Ingrese el monto del impuesto</string>
+    <string name="tip_0_percent">0%</string>
+    <string name="tip_5_percent">5%</string>
+    <string name="tip_10_percent">10%</string>
+    <string name="tip_20_percent">20%</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="clear_button">Limpiar</string>
+    <string name="tip_amount">Monto de propina: %s</string>
+    <string name="grand_total">Total: %s</string>
+</resources>
